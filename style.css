@@ -1,0 +1,30 @@
+body {
+	background: #00A2F1;
+}
+a {
+	color: #fff;
+}
+h1 {
+	line-height: 100px;
+}
+h2, h3 {
+	line-height: 50px;
+}
+.buttons {
+	margin-top: 50px;
+}
+ul {
+	width: 600px;
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0; 
+}
+ul li {
+	display: inline-block;
+	width: 300px;
+	padding: 10px;
+}
+ul li img {
+	width: 100px;
+	height: auto;
+}
